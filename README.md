@@ -6,8 +6,10 @@
 
 # Images
 
-**first image**
-![](https://drive.google.com/file/d/10ntGIe_YalkSq4lPTVKQYnspBfTqA6d_/view?usp=sharing)
+**First image**
 
-**second image**
-![](https://drive.google.com/file/d/19T5xNAvlk8VaX5yb01hAJGPmLLe_Xs_O/view?usp=sharing)
+![](https://github.com/up1512001/2048-game/blob/main/images/ss1.PNG)
+
+**Second image**
+
+![](https://github.com/up1512001/2048-game/blob/main/images/ss2.PNG)
